@@ -8,3 +8,27 @@
 .nav-wrapper img {
 	width: 5%;
 }
+
+
+/*all timeline */
+
+.parallax-styles {
+	width: 100%;
+	height: 500px;  /*change this when parallax is done */
+	background: red;
+	display: block;
+
+}
+
+
+/*text to right */
+.odd {
+	float: right;
+	width: 50%;
+}
+
+/*text to left */
+.even {
+	float: left;
+	width: 50%;
+}
