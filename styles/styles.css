@@ -1,0 +1,10 @@
+* {
+	margin: 0;
+	font-family: 'PT Sans', sans-serif !important;
+}
+
+/* Containing Divs for Parallax */
+
+.nav-wrapper img {
+	width: 5%;
+}
